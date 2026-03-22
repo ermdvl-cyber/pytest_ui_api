@@ -2,6 +2,11 @@
 
 ## Шаблон для автоматизации тестирования на python
 
+### Шаги
+1. Склонировать проект `git clone https://github.com/ermdvl-cyber/pytest_ui_api.git`
+2. Установить зависимости
+3. Запустить тесты `pytest`
+
 ### Стек:
 - pytest
 - selenium
